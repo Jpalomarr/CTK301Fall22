@@ -1,0 +1,84 @@
+body {
+  background-image: url(bulls.jpeg);
+  background-position: center;
+}
+
+
+h1 {
+    background-color: #80CBB3;
+    color: #FFFFFF;
+    font-weight: normal;
+    font-style: normal;
+    background-color: #FF8000
+
+}
+h2 {
+    background-color: #DC143C;
+    color: #FFFFFF;
+    font-weight: normal;
+    font-style: italic;
+    background-color: #FF8000
+
+}
+h3 {
+    background-color: #00008B;
+    color: #FFFFFF;
+    font-weight: normal;
+    font-style: italic;
+    background-color: #FF8000
+
+}
+
+.imgbox {
+border:2px solid #000000;
+padding: 10px 10px 10px 10px;
+margin: 20px 20px 20px 20px;
+background-color: #FFFFFF;
+width:320px
+}
+.textcenter {
+  text-align: center;
+}
+.textjustify{
+  text-align: justify;
+}
+
+main {
+  font-family: sans-serif;
+}
+.customtext{
+  font-family: sans-serif;
+}
+nav {
+  font-family: sans-serif;
+}
+footer{
+  font-family: sans-serif;
+}
+
+header{
+  font-family: sans-serif;
+}
+
+
+a {
+ color: #ff0000;
+ text-decoration: none;
+
+}
+a:hover {
+ color: #ffff00;
+}
+a:visited {
+ color: #228B22;
+}
+.spanstyle {
+  color: #00ff00;
+}
+#div1 {
+  color: #0000FF;
+  background-color: #A9A9A9;
+}
+#div2 {
+  color: #0000FF;
+  background-color: #FAF0E6;
