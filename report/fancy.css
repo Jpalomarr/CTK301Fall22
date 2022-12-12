@@ -21,7 +21,9 @@ body {
   --carousel-button-svg-height: 20px;
   --carousel-button-svg-stroke-width: 2.5;
 }
-
+#myCarousel {
+  grid-column: span 6;
+}
 .carousel__slide {
   display: flex;
   align-items: center;
